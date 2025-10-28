@@ -24,4 +24,5 @@ while saldo > 0:
     print("-" * 40)
 
     if saldo <= 0:
+
         print("Seu dinheiro acabou")
